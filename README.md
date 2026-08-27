@@ -20,6 +20,7 @@ I’m a Software Engineering student from 📍 **Yucatán, Mexico**, focused on 
     <td>
       <img src="https://skillicons.dev/icons?i=ts,js" />
     </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
     </td>
     <td>
