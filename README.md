@@ -18,10 +18,10 @@ Software engineering student in 📍 **Mérida, Mexico** (graduating June 2027) 
     <th>🗄️ Databases</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=ts,js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py" /></td>
     <td><img src="https://skillicons.dev/icons?i=react,tailwind,vite" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></td>
   </tr>
   <tr>
     <th>📱 Mobile</th>
@@ -29,7 +29,7 @@ Software engineering student in 📍 **Mérida, Mexico** (graduating June 2027) 
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=flutter,dart" /></td>
-    <td colspan="3"><img src="https://skillicons.dev/icons?i=git,github,docker" /></td>
+    <td colspan="3"><img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" /></td>
   </tr>
 </table>
 
